@@ -18,10 +18,12 @@
   - [Questions](#Questions)
 
   ## 💽 Installation
-   `npm init` `npm intsall inquirer`
+   `npm init` 
+   `npm intsall inquirer`
   
   ## 💻 Usage 
-   Run the following command line at the root of your project and answer the prompts to generate a README.md `node index.js` 
+   Run the following command line at the root of the project and answer the prompts to generate a README.md
+    `node index.js` 
 
   ## ➕ Features
    node.JS ES6
