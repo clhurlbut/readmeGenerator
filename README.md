@@ -1,6 +1,6 @@
 # README Generator
 
-  ![badge](https://img.shields.io/badge/License-MIT License-brightgreen)
+  ![badge](https://img.shields.io/badge/License-MIT-License-brightgreen)
 
   ## Description
    A command line application to create a professional README.md
@@ -33,16 +33,23 @@
    none
 
   ## 💖 Credits
+
    Thank You to UCLA / Trilogy Bootcamp!
 
   ## 📒 License 
-   This project is using the MIT License License. 
+
+   This project is using the MIT License. 
 
   ## 🙋 Questions 
+
    Please feel free to contact the developer with any questions/comments/concerns. 
+
    📧 **Email**
+
    <clhurlbut@gmail.com>
+
    🔗 **GitHub** 
+
    [clhurlbut](https://github.com/clhurlbut)
    
 
