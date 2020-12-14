@@ -38,13 +38,13 @@ const questions = [
     },
     {
         type: "input",
-        name: "githubName",
-        message: "What is your GitHub username?",
+        name: "email",
+        message: "What is your email address?",
     },
     {
         type: "input",
-        name: "githubRepo",
-        message: "What is the URL for your project repository?",
+        name: "githubName",
+        message: "What is your GitHub username? (No '@' Needed!)",
     },
     {
         type: "input",
@@ -57,10 +57,17 @@ const questions = [
         message: "Would you like to give credit for this project?",
     },
     {
-        type: "input",
+        type: "list",
         name: "license",
         message: "What is the license for this project?",
-        default: "MIT",
+        default: "MIT License",
+        choices: ["MIT License",
+            "The Unlicense",
+            "Mozilla Public License 2.0",
+            "Apache 2.0",
+            "GNU v3.0",
+            "Creative Commons Zero v1.0"]
+
     },
 ]
 
