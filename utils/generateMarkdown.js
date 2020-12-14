@@ -3,6 +3,7 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ## Description
+   ${data.description}
 
   ## 🔎 Table of Contents
   - [Description](#Description)
@@ -17,20 +18,29 @@ function generateMarkdown(data) {
   - [Questions](#Questions)
 
   ## 💽 Installation
+   ${data.installation}
   
   ## 💻 Usage 
+   ${data.usage}
 
   ## ➕ Features
+   ${data.features}
 
   ## 💾 Tests
+   ${data.tests}
 
   ## 🔗 GitHub
+   ${data.githubName}
+   ${data.githubRepo}
 
   ## 🧑‍🤝‍🧑 Contributing
+   ${data.contributing}
 
   ## 💖 Credits
+   ${data.credits}
 
   ## 📒 License 
+   ${data.license}
 
   ## 🙋 Questions 
 
