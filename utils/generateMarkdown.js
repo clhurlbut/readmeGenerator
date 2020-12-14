@@ -48,7 +48,9 @@ function generateMarkdown(data) {
    [${data.githubName}](https://github.com/${data.githubName})
    
 
-  _This README was generated with 🥔 [readmeGenerator](https://github.com/clhurlbut/readmeGenerator)  
+
+   
+  This README was generated with 🥔 [readmeGenerator](https://github.com/clhurlbut/readmeGenerator)  
   
 
 `;
