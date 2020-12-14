@@ -10,7 +10,7 @@ function generateMarkdown(data) {
   - [Usage](#Usage)
   - [Features](#Features)
   - [Tests](#Tests)
-  - [Links](#Links)
+  - [GitHub](#GitHub)
   - [Contributors](#Contributors)
   - [Credits](#Credits)
   - [License](#License)
@@ -23,7 +23,7 @@ function generateMarkdown(data) {
 
   ## 💾 Tests
 
-  ## 🔗 Links
+  ## 🔗 GitHub
 
   ## 🧑‍🤝‍🧑 Contributors
 
