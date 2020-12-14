@@ -3,7 +3,7 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ## Description
-  # ${data.description}
+   ${data.description}
 
   ## 🔎 Table of Contents
   - [Description](#Description)
@@ -17,29 +17,29 @@ function generateMarkdown(data) {
   - [License](#License)
 
   ## 💽 Installation
-  # ${data.installation}
+   ${data.installation}
   
   ## 💻 Usage 
-  # ${data.usage}
+   ${data.usage}
 
   ## ➕ Features
-  # ${data.features}
+   ${data.features}
 
   ## 💾 Tests
-  # ${data.tests}
+   ${data.tests}
 
   ## 🔗 GitHub
-  # ${data.githubName}
-  # ${data.githubRepo}
+   ${data.githubName}
+   ${data.githubRepo}
 
   ## 🧑‍🤝‍🧑 Contributing
-  # ${data.contributing}
+   ${data.contributing}
 
   ## 💖 Credits
-  # ${data.credits}
+   ${data.credits}
 
   ## 📒 License 
-  # ${data.license}
+   ${data.license}
 
   _This README was generated with 🥔 [readmeGenerator](https://github.com/clhurlbut/readmeGenerator)  
   

@@ -1,7 +1,7 @@
 # README Generator
 
   ## Description
-  # A command line application to generate a README.md for a project.
+   A command line application to generate a README.md for a project.
 
   ## 🔎 Table of Contents
   - [Description](#Description)
@@ -15,29 +15,29 @@
   - [License](#License)
 
   ## 💽 Installation
-  # I want to fix this so it is easier to create step by step instructions. 
+   I want to fix this so it is easier to create step by step instructions. 
   
   ## 💻 Usage 
-  # The USER answers a series of prompts about their project and a README.md file is generated for them.
+   The USER answers a series of prompts about their project and a README.md file is generated for them.
 
   ## ➕ Features
-  # node.JS, inquirer, ES6
+   node.JS, inquirer, ES6
 
   ## 💾 Tests
-  # undefined
+   undefined
 
   ## 🔗 GitHub
-  # @clhurlbut
-  # https://github.com/clhurlbut/readmeGenerator
+   @clhurlbut
+   https://github.com/clhurlbut/readmeGenerator
 
   ## 🧑‍🤝‍🧑 Contributing
-  # [Contributor Covenant](https://www.contributor-covenant.org/)
+   [Contributor Covenant](https://www.contributor-covenant.org/)
 
   ## 💖 Credits
-  # Thank you UCLA / Triolgy Bootcamp!! 
+   Thank you UCLA / Triolgy Bootcamp!! 
 
   ## 📒 License 
-  # MIT
+   MIT
 
   _This README was generated with 🥔 [readmeGenerator](https://github.com/clhurlbut/readmeGenerator)  
   
