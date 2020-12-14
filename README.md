@@ -29,12 +29,8 @@
    node.JS ES6
 
   ## 💾 Tests
-  <!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1PDOumJT18RwH_XMtb2Jz9BcvVcwp01Bt/preview" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
+ 
+ [Click Here for Video Demo!](https://drive.google.com/file/d/1PDOumJT18RwH_XMtb2Jz9BcvVcwp01Bt/preview)
 
 ![Screenshot of Deployed Gitpage](/srcs/imgs/readmeGeneratorScreenshot1.jpg)
 ![Screenshot of Deployed Gitpage](/srcs/imgs/readmeGeneratorScreenshot2.jpg)
