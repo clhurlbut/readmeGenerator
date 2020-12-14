@@ -60,20 +60,24 @@ const questions = [
         type: "input",
         name: "license",
         message: "What is the license for this project?",
+        default: "MIT",
     },
 ]
 
 // function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile(fileName, data, err => {
-        if (err) {
-        }
+    const newReadme = generateMarkdown(data);
+    fs.writeFile(fileName, newReadme, err => {
+        if (err) throw (err);
         console.log("SUCCESS! Your README.md file has been created.");
     });
 }
 
 // function to initialize program
 function init() {
+    inquirer
+        .prompt(questions)
+        .then(data => writeToFile(fileName, data));
 
 }
 
