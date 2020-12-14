@@ -1,6 +1,6 @@
 # README Generator
 
-  ![badge](https://img.shields.io/badge/License-MIT-License-brightgreen)
+  ![badge](https://img.shields.io/badge/License-MIT-brightgreen)
 
   ## Description
    A command line application to create a professional README.md
@@ -18,19 +18,21 @@
   - [Questions](#Questions)
 
   ## 💽 Installation
-   `npm init` `npm install inquirer`
+   `npm init` 
+   `npm install inquirer`
   
   ## 💻 Usage 
-   Run the following command at the root of the project and answer the following questions. `node index.js`
+   Run the following command at the root of the project and answer the following questions. 
+   `node index.js`
 
   ## ➕ Features
    Node.JS, ES6
 
   ## 💾 Tests
-   undefined
+   
 
   ## 🧑‍🤝‍🧑 Contributing
-   none
+   
 
   ## 💖 Credits
 
