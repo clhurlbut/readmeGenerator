@@ -2,6 +2,7 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
 const generateMarkdown = require("./utils/generateMarkdown");
+const fileName = "README.md";
 
 // array of questions for user
 const questions = [
@@ -47,8 +48,8 @@ const questions = [
     },
     {
         type: "input",
-        name: "contributors",
-        message: "If there were any contributors on this project, who were they?",
+        name: "contributing",
+        message: "What are the guidelines for contributing to this project?",
     },
     {
         type: "input",
@@ -60,10 +61,15 @@ const questions = [
         name: "license",
         message: "What is the license for this project?",
     },
-];
+]
 
 // function to write README file
 function writeToFile(fileName, data) {
+    fs.writeFile(fileName, data, err => {
+        if (err) {
+        }
+        console.log("SUCCESS! Your README.md file has been created.");
+    });
 }
 
 // function to initialize program

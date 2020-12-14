@@ -11,7 +11,7 @@ function generateMarkdown(data) {
   - [Features](#Features)
   - [Tests](#Tests)
   - [GitHub](#GitHub)
-  - [Contributors](#Contributors)
+  - [Contributing](#Contributing)
   - [Credits](#Credits)
   - [License](#License)
 
@@ -25,7 +25,7 @@ function generateMarkdown(data) {
 
   ## 🔗 GitHub
 
-  ## 🧑‍🤝‍🧑 Contributors
+  ## 🧑‍🤝‍🧑 Contributing
 
   ## 💖 Credits
 
