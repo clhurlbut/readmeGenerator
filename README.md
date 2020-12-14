@@ -1,7 +1,9 @@
 # README Generator
 
+  ![badge](https://img.shields.io/badge/License-MIT License-brightgreen)
+
   ## Description
-   A command line application to generate a README.md for a project.
+   A command line application to create a professional README.md
 
   ## 🔎 Table of Contents
   - [Description](#Description)
@@ -13,31 +15,36 @@
   - [Contributing](#Contributing)
   - [Credits](#Credits)
   - [License](#License)
+  - [Questions](#Questions)
 
   ## 💽 Installation
-   I want to fix this so it is easier to create step by step instructions. 
+   `npm init` `npm install inquirer`
   
   ## 💻 Usage 
-   The USER answers a series of prompts about their project and a README.md file is generated for them.
+   Run the following command at the root of the project and answer the following questions. `node index.js`
 
   ## ➕ Features
-   node.JS, inquirer, ES6
+   Node.JS, ES6
 
   ## 💾 Tests
    undefined
 
-  ## 🔗 GitHub
-   @clhurlbut
-   https://github.com/clhurlbut/readmeGenerator
-
   ## 🧑‍🤝‍🧑 Contributing
-   [Contributor Covenant](https://www.contributor-covenant.org/)
+   none
 
   ## 💖 Credits
-   Thank you UCLA / Triolgy Bootcamp!! 
+   Thank You to UCLA / Trilogy Bootcamp!
 
   ## 📒 License 
-   MIT
+   This project is using the MIT License License. 
+
+  ## 🙋 Questions 
+   Please feel free to contact the developer with any questions/comments/concerns. 
+   📧 **Email**
+   <clhurlbut@gmail.com>
+   🔗 **GitHub** 
+   [clhurlbut](https://github.com/clhurlbut)
+   
 
   _This README was generated with 🥔 [readmeGenerator](https://github.com/clhurlbut/readmeGenerator)  
   
