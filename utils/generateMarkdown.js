@@ -42,14 +42,16 @@ function generateMarkdown(data) {
 
   ## 🙋 Questions 
    Please feel free to contact the developer with any questions/comments/concerns. 
+   
    📧 **Email**
    <${data.email}>
+   
    🔗 **GitHub** 
    [${data.githubName}](https://github.com/${data.githubName})
    
 
 
-   
+
   This README was generated with 🥔 [readmeGenerator](https://github.com/clhurlbut/readmeGenerator)  
   
 

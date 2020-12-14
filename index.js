@@ -35,6 +35,7 @@ const questions = [
         type: "input",
         name: "test",
         message: "Please provide the project tests:",
+        default: "TBA",
     },
     {
         type: "input",
@@ -50,6 +51,7 @@ const questions = [
         type: "input",
         name: "contributing",
         message: "What are the guidelines for contributing to this project?",
+        default: "[Contributor Covenant](https://www.contributor-covenant.org/)",
     },
     {
         type: "input",
