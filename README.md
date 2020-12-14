@@ -1,9 +1,9 @@
-# Test Project
+# README Generator
 
-  ![badge](https://img.shields.io/badge/License-Apache-brightgreen)
+  ![badge](https://img.shields.io/badge/License-MIT-brightgreen)
 
   ## Description
-   This is to demo the capabilities of the readme generator
+   A command line application to generate a professional README.md using node.JS and ES6.
 
   ## 🔎 Table of Contents
   - [Description](#Description)
@@ -18,38 +18,45 @@
   - [Questions](#Questions)
 
   ## 💽 Installation
-   None for this one!
+   `npm init` 
+   `npm intsall inquirer`
   
   ## 💻 Usage 
-   This is just a demo to show what it can do.
+   Run the following command line at the root of the project and answer the prompts to generate a README.md
+    `node index.js` 
 
   ## ➕ Features
-   Well, it can take all the input and parse it into info that is then written into a README.md file!
+   node.JS ES6
 
   ## 💾 Tests
-   undefined
+ 
+ [Click Here for Video Demo!](https://drive.google.com/file/d/1PDOumJT18RwH_XMtb2Jz9BcvVcwp01Bt/preview)
+
+![Screenshot of Deployed Gitpage](/srcs/imgs/readmeGeneratorScreenshot1.jpg)
+![Screenshot of Deployed Gitpage](/srcs/imgs/readmeGeneratorScreenshot2.jpg)
+![Screenshot of Deployed Gitpage](/srcs/imgs/readmeGeneratorScreenshot3.jpg)
+
 
   ## 🧑‍🤝‍🧑 Contributing
    [Contributor Covenant](https://www.contributor-covenant.org/)
 
   ## 💖 Credits
-   Yes, all the credit to everyone! 
+   Thank you to UCLA / Trilogy Bootcamp!
 
   ## 📒 License 
-   This project is using the Apache License. 
+   This project is using the MIT License. 
 
   ## 🙋 Questions 
    Please feel free to contact the developer with any questions/comments/concerns. 
    
    📧 **Email**
-   <nanana@abc.com>
+   <clhurlbut@gmail.com>
    
    🔗 **GitHub** 
-   [gittymcgitgit](https://github.com/gittymcgitgit)
+   [clhurlbut](https://github.com/clhurlbut)
    
 
 
 
   This README was generated with 🥔 [readmeGenerator](https://github.com/clhurlbut/readmeGenerator)  
   
-
