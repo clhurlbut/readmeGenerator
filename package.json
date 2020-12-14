@@ -1,7 +1,7 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "An application using node.JS to create a professional ReadMe using the command line",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clhurlbut/readmeGenerator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/clhurlbut/readmeGenerator/issues"
+  },
+  "homepage": "https://github.com/clhurlbut/readmeGenerator#readme"
 }
