@@ -14,6 +14,7 @@ function generateMarkdown(data) {
   - [Contributing](#Contributing)
   - [Credits](#Credits)
   - [License](#License)
+  - [Questions](#Questions)
 
   ## 💽 Installation
   
@@ -30,6 +31,8 @@ function generateMarkdown(data) {
   ## 💖 Credits
 
   ## 📒 License 
+
+  ## 🙋 Questions 
 
   _This README was generated with 🥔 [readmeGenerator](https://github.com/clhurlbut/readmeGenerator)  
   
